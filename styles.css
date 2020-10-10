@@ -1,0 +1,42 @@
+@import "reset.css";
+
+body {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.timeCounter {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 200px;
+}
+.timeCounter2 {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 90px;
+}
+.timeCounter3 {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 50px;
+}
+.timeCounter4 {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 50px;
+}
+.time-div {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+.time-div2 {
+  padding-left: 5px;
+}
